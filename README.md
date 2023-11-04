@@ -1,2 +1,2 @@
 # MultiEnvMeter
-Enviroment Sensors
+A simple sensor hub based on MicroPython
